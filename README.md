@@ -26,4 +26,5 @@ The analysis uses publicly available datasets from:
 
 ## Author
 Girma Gemechu Adamu
+
 Note: The dataset used in this project is a fictitious but realistic dataset created for demonstration and portfolio purposes.
